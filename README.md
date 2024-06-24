@@ -28,7 +28,7 @@ Developing an automated testing suite for the e-commerce web application at http
 ## Setup and Execution
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/HrishiNMore/EcommerceWebAutomation.git
+    git clone https://github.com/HrishiNMore/EcommerceWebAutomationNew.git
     ```
 
 2. **Build the project using Gradle:**
